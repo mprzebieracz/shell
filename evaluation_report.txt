@@ -1,0 +1,5 @@
+Automatic tests: 	OK
+Interactive tests: 	OK
+Code inspection:	OK (minor issue left)
+
+Overall evalutaton: 28p, up to 30p after resolving the issue.

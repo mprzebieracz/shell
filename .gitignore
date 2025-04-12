@@ -1,0 +1,5 @@
+.editorconfig
+.vscode
+bin/
+issues.txt
+obj/
